@@ -1,0 +1,46 @@
+#img-div {
+  display:flex;
+  justify-content:flex-start;
+  flex-wrap: wrap;
+    border-radius: 20px;
+}
+
+#imagediv2 {
+  flex: 1 1 800px;
+}
+
+#image{
+  max-width:100%;
+}
+
+#floatTitle {
+    position:absolute;
+    top: 100px;
+        right:10%;
+    text-align: right;
+    font-family: serif;
+    font-size: 12vw;
+        color: white;
+    width: 50%;
+    text-shadow: 2px 2px #000000;
+    
+}
+
+
+
+main {font-family:cursive;
+font-size:1.2em;}
+
+#tribute-info { 
+    border: dashed 3px peru;
+    border-radius: 10px;
+    padding: 20px;
+    margin 10px;
+    
+    
+    
+}
+
+h1 {
+
+}
